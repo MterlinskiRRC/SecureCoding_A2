@@ -64,4 +64,4 @@ function saveToDb(data: string) {
     sendEmail('admin@example.com', 'User Input', userInput);
 })();
 
-** ( " Addinng Code to trigger a commit and scan")
+
